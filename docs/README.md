@@ -38,7 +38,7 @@ Join a vibrant community of professionals working together to achieve digital su
 
 - [Platform Features](features.md) - Detailed feature descriptions
 - [Getting Started Guide](getting-started.md) - Setup and onboarding
-- Main README - Project overview
+- [Main README](../README.md) - Project overview
 
 ## Support
 

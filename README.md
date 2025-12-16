@@ -15,6 +15,15 @@ AI Super Power Lab is a cutting-edge platform offering AI-powered tools for cont
 
 For detailed information about features, getting started guides, and best practices, visit our [documentation](docs/README.md).
 
+## Community
+
+Join our community server to connect with other users:
+- **#ai-discussions** - Discuss AI-related topics and share knowledge
+- **#automation-showcase** - Share your automation projects and get feedback
+- **#resources** - Access exclusive AI resources, tutorials, and guides
+- **#projects** - Collaborate on AI-powered projects and challenges
+- **#announcements** - Stay updated on server news and events
+
 ## Get Started
 
 Ready to transform your digital presence? Explore the platform and discover how AI Super Power Lab can help you achieve your business goals!

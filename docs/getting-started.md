@@ -65,6 +65,16 @@ Accelerate your business development:
 4. **Review Analytics**: Regularly check insights to refine your strategies
 5. **Stay Updated**: Keep up with new features and improvements
 
+## Community Server Channels
+
+Join our vibrant community server to connect with other users, share knowledge, and stay updated:
+
+- **#ai-discussions**: Discuss AI-related topics and share knowledge
+- **#automation-showcase**: Share your automation projects and get feedback
+- **#resources**: Access exclusive AI resources, tutorials, and guides
+- **#projects**: Collaborate on AI-powered projects and challenges
+- **#announcements**: Stay updated on server news and events
+
 ## Support Resources
 
 - Documentation: Comprehensive guides and tutorials
